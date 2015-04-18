@@ -1,0 +1,10 @@
+Big O
+Pre, post, inorder
+Ackerman's function
+STACK
+QUEUE
+Linked Lists
+PQ
+
+
+Palindrome
